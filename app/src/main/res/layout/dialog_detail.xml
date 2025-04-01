@@ -32,6 +32,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Edit"
+        android:backgroundTint="#27A4F2"
+
         android:layout_marginTop="16dp" />
 
     <Button
@@ -39,6 +41,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Delete"
+        android:backgroundTint="#27A4F2"
+
         android:layout_marginTop="8dp"
         android:background="#FF0000"
         android:textColor="#FFFFFF" />

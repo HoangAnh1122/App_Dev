@@ -216,6 +216,7 @@
             android:layout_height="60dp"
             android:layout_marginTop="20dp"
             android:gravity="center"
+            android:backgroundTint="#27A4F2"
             android:text="Edit Profile"
             android:textSize="18sp"
             app:cornerRadius="20dp"

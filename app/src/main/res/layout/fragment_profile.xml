@@ -123,7 +123,7 @@
                 android:layout_height="wrap_content"
                 android:text="Logout"
                 android:textSize="16sp"
-                android:backgroundTint="@color/lavender"
+                android:backgroundTint="#27A4F2"
                 android:textColor="@color/white"
                 android:layout_marginTop="16dp" />
 
